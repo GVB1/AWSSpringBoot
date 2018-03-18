@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: serverless-spring-boot-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bhargav
+Implementation-Vendor-Id: com.amazonaws.serverless.sample
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
